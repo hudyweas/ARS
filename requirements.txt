@@ -1,0 +1,9 @@
+transformers
+torch
+pandas
+bitsandbytes
+accelerate
+langchain
+langchain-experimental
+langchain-pinecone
+langchain-community
